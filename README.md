@@ -8,7 +8,7 @@
 http://your-songs-go.com
 
 ## バックエンド側のコード（Golang）
-- https://github.com/kt-321/golang-songs
+- https://github.com/totorokop/golang-songs
 
 
 ## アプリケーション全体での主な使用技術
